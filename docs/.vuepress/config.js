@@ -10,7 +10,11 @@ module.exports = {
     nav: [
       {
         text: 'Usage',
-        link: '/usage'
+        link: '/usage/'
+      },
+      {
+        text: 'Change Log',
+        link: '/change_log/'
       },
       {
         text: 'Filter of Kalandra',
@@ -21,19 +25,20 @@ module.exports = {
     ],
 
     /* sidebar */
-    sidebar: [
-      {
-        title: 'Usage',
-        path: '/usage'
-      },
-      {
-        title: 'Unorganized',
-        path: '/unorganized'
-      }
-    ],
+    sidebar: {
+      '/usage/': [
+        '',
+        'unorganized'
+      ],
+      '/change_log/': [
+        ''
+      ],
+      '/': [
+        ''
+      ]
+    },
     displayAllHeaders: true,
     activeHeaderLinks: true,
-    sidebarDepth: 2,
 
     /* contents */
     lastUpdated: 'Last Updated',
