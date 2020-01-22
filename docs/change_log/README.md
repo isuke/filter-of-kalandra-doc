@@ -1,79 +1,85 @@
 # Change Log
 
+## v0.9.10 2020-01-22
+
+- remove(Home): remove "Change Logs" (move to here)
+- feat: implement "clear all" button
+- ui: remake tone and manner
+
 ## v0.9.9 2020-01-20
 
-- feat: Add doc link.
-- chore(Variable): Fix "Convoking Wand" of defaultData.
+- feat: add doc link
+- chore(Variable): fix "Convoking Wand" of defaultData
 
 ## v0.9.8 2019-12-27
 
-- feat(Color): Make to export by rgb format.
-- feat(Color): Make able to import by rgb format.
-- fix(Color): Fix duplicate name color import bug.
+- feat(Color): make to export by rgb format
+- feat(Color): make able to import by rgb format
+- fix(Color): fix duplicate name color import bug
 
 ## v0.9.7 2019-12-26
 
-- feat(ScriptText): Implement copy button.
-- feat(Color): Implement remove all button.
-- feat(Variable): Implement remove all button.
+- feat(ScriptText): implement copy button
+- feat(Color): implement remove all button
+- feat(Variable): implement remove all button
 
 ## v0.9.6 2019-12-24
 
-- chore(Property): Up script max num to 3 from 2.
-- feat: Support `Ignore` activity.
-- feat(ScriptPreview): Remake ScriptPreview.
+- chore(Property): up script max num to 3 from 2
+- feat: support `Ignore` activity
+- feat(ScriptPreview): remake ScriptPreview
 
 ## v0.9.5 2019-12-12
 
-- feat(ScriptEditor): Support `HasInfluence`.
-- chore(Variable): Add "Awakener's Orb" and new "Exalted Orb"s to default variables.
-- feat: Implement contact form.
+- feat(ScriptEditor): support `HasInfluence`
+- chore(Variable): add "Awakener's Orb" and new "Exalted Orb"s to default variables
+- feat: implement contact form
 
 ## v0.9.4 2019-10-04
 
-- feat(Script): Support `==` (Exact Match).
+- feat(Script): support `==` (Exact Match)
 
 ## v0.9.3 2019-09-10
 
-- fix(Script): Fix 'ElderMap' and 'BlightedMap' conditions don't work bug
-- chore(Variable): Add "Atlas Base Items" to default variables
+- fix(Script): fix 'ElderMap' and 'BlightedMap' conditions don't work bug
+- chore(Variable): add "Atlas Base Items" to default variables
 
 ## v0.9.2 2019-09-04
 
-- feat(ScriptEditor): Support "ElderMap" and "BlightedMap" conditions.
+- feat(ScriptEditor): support "ElderMap" and "BlightedMap" conditions
 
 ## v0.9.1 2019-06-23
 
-- feat(Setting): Add "defaultAlertSoundVolume" and "defaultAlertSoundPositionalVolume" options.
+- feat(Setting): add "defaultAlertSoundVolume" and "defaultAlertSoundPositionalVolume" options
 
 ## v0.9.0 2019-05-29
 
-- chore: Change Domain.
+- chore: change Domain
 
 ## v0.8.5 2019-04-26
 
-- chore(ScriptEditor): Add vscode extention link.
-- feat(ScriptPreview): Make to show toaster when create preview.
+- chore(ScriptEditor): add [vscode extention](https://marketplace.visualstudio.com/items?itemName=isuke.vscode-advanced-poe-filter) link
+- feat(ScriptPreview): make to show toaster when create preview
 
 ## v0.8.4 2019-04-19
 
-- feat(ScriptEditor): Implement suggestions
+- feat(ScriptEditor): implement suggestions
 
 ## v0.8.3 2019-04-16
 
-- fix: Hotfix can't import settings bug.
+- fix: hotfix can't import settings bug
 
 ## v0.8.2 2019-04-16
 
-- up: Upgra de advanced-poe-filter to v0.8.3.
-- feat(Setting): Add filter version.
-- fix: Fix minor bugs.
+- up: upgra de advanced-poe-filter to v0.8.3
+- feat(Setting): add filter version
+- fix: fix minor bugs
 
 ## v0.8.1 2019-04-04
 
-- feat(ScriptEditor): Add loading message.
-- feat(ScriptEditor): Make to show error toaster when occurred error (other than syntax error).
+- feat(ScriptEditor): add loading message
+- feat(ScriptEditor): make to show error toaster when occurred error (other than syntax error)
 
 ## v0.8.0 2019-04-02
 
-- tada: Release Beta.
+- tada: release Beta
