@@ -1,5 +1,10 @@
 # Change Log
 
+## v0.9.11 2020-03-13
+
+- up(Script): upgrade monaco to 0.20.0
+- ui: add brave logo to GlobalHint
+
 ## v0.9.10 2020-01-22
 
 - remove(Home): remove "Change Logs" (move to here)
