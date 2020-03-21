@@ -5,6 +5,13 @@ Tala moana!
 
 [[toc]]
 
+## Attention when using with Firefox
+
+The following settings are required in your browser.
+
+1. Open `about:config`
+2. Set `dom.dialog_element.enabled` to `true`
+
 ## Simple Usage
 
 The simplest filter is applied as follows
