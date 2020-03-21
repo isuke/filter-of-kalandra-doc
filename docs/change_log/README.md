@@ -1,5 +1,10 @@
 # Change Log
 
+## v0.9.12 2020-03-21
+
+- feat(Script): support new new minimapIcon Sharpes and minimapIcon/PlayEffect Colors
+- docs: add attension to hint
+
 ## v0.9.11 2020-03-13
 
 - up(Script): upgrade monaco to 0.20.0
