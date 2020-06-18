@@ -1,5 +1,12 @@
 # Change Log
 
+## v0.9.13 2020-06-18
+
+- feat(Script): support 'HasInfluence None' parameter
+- feat(Script): support 'EnchantmentPassiveNode' condition
+- docs(Home): add an issue
+- feat: make to show message when file imported
+
 ## v0.9.12 2020-03-21
 
 - feat(Script): support new new minimapIcon Sharpes and minimapIcon/PlayEffect Colors
