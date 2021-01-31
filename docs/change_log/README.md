@@ -1,5 +1,16 @@
 # Change Log
 
+## v0.9.15 2020-01-31
+
+- feat(Script): support 'operator values' for the 'HasExplicitMod' and 'HasEnchantment'
+- feat(Script): support 'EnableDropSound' action
+- feat(Script): support 'CustomAlertSound' volume
+- feat(Script): support 'AreaLevel', 'CorruptedMods' 'Mirrored' and 'EnchantmentPassiveNum'
+
+## v0.9.14 2020-09-18
+
+- feat(Script): support 'GemQualityType', 'AlternateQuality' and 'Replica' condition
+
 ## v0.9.13 2020-06-18
 
 - feat(Script): support 'HasInfluence None' parameter
