@@ -1,5 +1,10 @@
 # Change Log
 
+## v0.9.16 2021-10-24
+
+- feat: support 'Scourged' and 'UberBlightedMap'
+- feat: support 'BaseDefencePercentile', 'BaseArmour', 'BaseEnergyShield', 'BaseEvasion' and 'BaseWard'
+
 ## v0.9.15 2021-01-31
 
 - feat(Script): support 'operator values' for the 'HasExplicitMod' and 'HasEnchantment'
