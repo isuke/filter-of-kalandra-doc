@@ -1,5 +1,10 @@
 # Change Log
 
+## v0.9.17 2022-03-12
+
+- feat(Script): support 'HasEaterOfWorldsImplicit', 'HasSearingExarchImplicit' and 'ArchnemesisMod'
+- feat(Script): unsupport 'Prophecy', 'ShaperItem' and 'ElderItem'
+
 ## v0.9.16 2021-10-24
 
 - feat: support 'Scourged' and 'UberBlightedMap'
